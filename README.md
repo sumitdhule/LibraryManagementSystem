@@ -28,4 +28,4 @@ This project helps manage books in a library where users can add, search, issue,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumitdhule/LibraryManagementSystem.git
+   https://github.com/sumitdhule/LibraryManagementSystem.git
